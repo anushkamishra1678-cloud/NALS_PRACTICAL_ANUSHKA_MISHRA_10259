@@ -1,0 +1,29 @@
+PRACTICAL-11 : To compare AI-Generated content with student created content and understand limitations of AI.
+
+a) Student Created Content (Student Version) :
+
+Topic: Will AI replace jobs or change them?
+
+AI is becoming a big part of our daily work, but I don’t think it will completely replace human jobs. Instead, it will change them by taking over simple and repetitive tasks, so people can spend more time on 
+creative and important work. For example, in hospitals, AI can help doctors check test results faster, but it cannot provide the care and understanding that humans give to patients. In offices, AI can handle things 
+like calculations or scheduling, but humans are still needed to solve problems and make decisions. Some jobs may disappear, but new ones will appear that involve working with AI. Overall, AI will change jobs more 
+than it will replace them.
+
+b) AI-Generated Content (ChatGPT Version) :
+
+AI has the potential to significantly impact the job market. While some roles that involve repetitive or routine tasks may be automated, many jobs will evolve rather than disappear. AI can assist professionals by
+improving efficiency, analyzing large amounts of data, and providing insights that were previously difficult to obtain. However, human skills such as creativity, empathy, and complex decision-making remain 
+irreplaceable. As AI integrates into different industries, workers may need to acquire new skills to stay relevant. In conclusion, AI is more likely to reshape and enhance jobs rather than fully replace humans, 
+creating a future where humans and machines work collaboratively.
+
+c) Comparison Table :
+
+Aspect                  | Student-Created Content           | AI-Generated Content
+------------------------|-----------------------------------|------------------------
+Writing Style           | Personal, with examples           | Formal and neutral
+Word Choice             | Simple, easy to understand        | Polished, professional
+Perspective             | Opinion-based, reflective         | Objective, analytical
+Examples                | Healthcare, office work           | General industries
+Emotion                 | Shows concern and optimism        | Less emotional, more factual
+
+
