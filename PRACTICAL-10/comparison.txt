@@ -1,0 +1,28 @@
+Practical-10: Online Learning vs Offline Learning
+1. AI-Generated Paragraph :
+
+Online learning has gained significant popularity among college students due to its flexibility and convenience. Students can attend lectures from any location and often have access to a wider variety of courses
+than traditional classrooms offer. Many consider online learning more efficient because it allows self-paced study and saves commuting time. Digital platforms also provide interactive tools, such as quizzes and
+discussion forums, that can support learning. However, some students may face challenges, including reduced social interaction and difficulty staying motivated. Despite these drawbacks, online learning is 
+frequently viewed as a modern alternative to offline education, providing opportunities for students to manage their schedules and access resources more easily.
+
+2. Bias Analysis :
+
+a).Over-generalizations: Many consider online learning more efficient.
+
+b).One-sided opinions: Online learning is frequently viewed as a modern alternative to offline education.
+
+c).Unproven claims: Digital platforms also provide interactive tools that can support learning.
+
+3. Neutral Student Paragraph
+
+Online learning provides flexibility, allowing college students to attend lectures from different locations and access a variety of courses. It can save commuting time and allows self-paced study, which some 
+students find helpful. Digital tools may offer interactive features, though their effectiveness depends on the platform and individual learning style. On the other hand, offline learning provides in-person 
+interaction with teachers and peers, which can improve engagement and motivation. Both online and offline learning have advantages and challenges, and the best choice depends on personal preference, discipline,
+and course type. Combining both methods can sometimes provide a more effective learning experience for students.
+
+4. Screenshots
+
+Plagiarism Check Result
+Grammarly Suggestions 
+AI vs Student Paragraph 
